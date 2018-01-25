@@ -1,0 +1,5 @@
+/home/haico/Projects/Practicum4/Practicum4/obj/x86/Debug/Practicum4.csproj.CoreCompileInputs.cache
+/home/haico/Projects/Practicum4/Practicum4/bin/Debug/Practicum4.exe
+/home/haico/Projects/Practicum4/Practicum4/bin/Debug/Practicum4.pdb
+/home/haico/Projects/Practicum4/Practicum4/obj/x86/Debug/Practicum4.exe
+/home/haico/Projects/Practicum4/Practicum4/obj/x86/Debug/Practicum4.pdb

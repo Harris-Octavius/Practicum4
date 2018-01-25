@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practicum4", "Practicum4\Practicum4.csproj", "{57C79B96-344E-463B-9965-3B3454B757DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C79B96-344E-463B-9965-3B3454B757DD}.Debug|x86.ActiveCfg = Debug|x86
+		{57C79B96-344E-463B-9965-3B3454B757DD}.Debug|x86.Build.0 = Debug|x86
+		{57C79B96-344E-463B-9965-3B3454B757DD}.Release|x86.ActiveCfg = Release|x86
+		{57C79B96-344E-463B-9965-3B3454B757DD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
